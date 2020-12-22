@@ -3,18 +3,26 @@
 } */
 
 body{
-    background: url(../images/bgcat.jpg) no-repeat fixed;
+    background: url(../images/bgcat.jpg) center center no-repeat fixed;
     background-size: cover;
 }
 
+div{
+    background-color: #ba9ee0;
+}
+
 h1{
-    color: aliceblue;
+    color: #5702cd;
     text-align: center;
-    border: 3px solid red;
-    width: 400px;
+    
+/*    border: 3px solid red;*/
+    width: 600px;
     padding: 20px;
     margin: 0 auto;
     margin-top: 300px;
+    
+    font-family: 'Arimo', sans-serif;
+    font-size: 3em;
 }
 
 
